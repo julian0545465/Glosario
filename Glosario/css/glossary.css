@@ -1,0 +1,25 @@
+h1 {
+    font-size: 3rem;
+    color: #fff;
+    background-color:#00ffb3;
+    text-shadow: #fff 0 0 2px;
+}
+
+nav{
+    font-size: 1rem;
+    color: #00ffb3;
+}
+
+a {
+    font-size: 10pt;
+    font-family: sans-serif;
+    text-shadow: 10px 11px 18px rgba(100, 180, 100, 1),
+    -10px -11px 18px red;
+}
+
+
+
+/* .grayscale {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+      } */
